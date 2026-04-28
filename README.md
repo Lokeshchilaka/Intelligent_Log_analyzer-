@@ -178,7 +178,7 @@ file.write(f"Report generated at: {now}")
 
 ---
 
-# ▶️ How to Run
+## ▶️ How to Run
 
 ```bash
 python3 analyzerV1.py
