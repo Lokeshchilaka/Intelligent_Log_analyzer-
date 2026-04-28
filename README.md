@@ -1,5 +1,5 @@
 # 🚀 Intelligent Log Analyzer
-![Intelligent Log Analyzer](Project1.png)
+![Intelligent Log Analyzer](asset/Project1.png)
 A Python-based system that analyzes Linux system logs using `journalctl`, detects errors, and generates structured reports.
 
 ---
