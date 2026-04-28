@@ -18,7 +18,7 @@ This project simulates a **real-world log analysis pipeline**, developed progres
 
 ## 📂 Project Structure
 
-![Project Files](assets/Files.png)
+![Project Files](asset/Files.png)
 
 ---
 
@@ -40,7 +40,7 @@ Linux Logs (journalctl)
 
 # 🧪 Version 1 — Basic Log Extraction
 
-![V1 Output](assets/V1.png)
+![V1 Output](asset/V1.png)
 
 ### ⚙️ What it does
 
@@ -76,7 +76,7 @@ if "error" in line.lower() or "failed" in line.lower():
 
 # ⚙️ Version 2 — Error Classification + Reporting
 
-![V2 Output](assets/V2.png)
+![V2 Output](asset/V2.png)
 
 ### ⚙️ What it does
 
@@ -131,7 +131,7 @@ with open("report.txt", "w") as file:
 
 # 🧠 Version 3 — Advanced Log Analyzer
 
-![V3 Output](assets/V3.png)
+![V3 Output](asset/V3.png)
 
 ### ⚙️ What it does
 
