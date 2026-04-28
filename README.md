@@ -182,8 +182,12 @@ file.write(f"Report generated at: {now}")
 
 ```bash
 python3 analyzerV1.py
+![Link:](Files/analyzerV1.py)
 python3 analyzerV2.py
+![Link:](Files/analyzerV2.py)
 python3 analyzerV3.py
+![Link:](Files/analyzerV3.py)
+
 ```
 
 ---
