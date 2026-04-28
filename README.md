@@ -197,7 +197,7 @@ python3 analyzerV3.py
 
 ---
 
-# 📌 Final Note
+# Final Note
 
 This project demonstrates a **progressive evolution** from a basic script to an intelligent system-level tool — similar to real-world engineering development workflows.
 
